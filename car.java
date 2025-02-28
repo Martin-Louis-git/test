@@ -1,6 +1,6 @@
 public class car {
     int x;
-    String b="fuck u guys";
+    String b="fuck guys";
     public car(){
 
     }
