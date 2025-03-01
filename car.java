@@ -1,8 +1,8 @@
 public class car {
     int x;
    
-    public car(){
-
+    public car(int x){
+    this.x = 2;
     }
     public static void main(String[] args){
        
